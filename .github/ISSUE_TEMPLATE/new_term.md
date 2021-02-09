@@ -3,7 +3,7 @@ name: New term
 about: Suggest a new term to this reporting format
 title: ''
 labels: new_term
-assignees: ''
+assignees: @stephpenn1
 
 ---
 

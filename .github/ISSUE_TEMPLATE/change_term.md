@@ -3,7 +3,7 @@ name: Change term
 about: Suggest changing an already existing term in this reporting format
 title: ''
 labels: change_term
-assignees: ''
+assignees: @stephpenn1
 ---
 
 ***Term to change**: Exact name of term you are suggesting change to

@@ -2,8 +2,8 @@
 name: Change documentation
 about: Suggest a change to any documentation within this GitHub repository
 title: ''
-labels: change_documentation
-assignees: ''
+labels: documentation
+assignees: @stephpenn1
 
 ---
 
